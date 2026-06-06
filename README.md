@@ -1,6 +1,6 @@
-## Портфолио
+# Портфолио
 
-# Ключевые технологии
+## Ключевые технологии
 
 Java 17 • Spring Boot • Spring Security • PostgreSQL • Hibernate (JPA) • Docker • Maven • Liquibase • Git • Swagger/OpenAPI • Neo4j • JUnit 5 • Mockito
 
