@@ -2,13 +2,13 @@
 
 ## Ключевые технологии
 
-Java 17 • Spring Boot • Spring Security • PostgreSQL • Hibernate (JPA) • Docker • Maven • Liquibase • Git • Swagger/OpenAPI • Neo4j • JUnit 5 • Mockito
+**Java 17 • Spring Boot • Spring Security • PostgreSQL • Hibernate (JPA) • Docker • Maven • Liquibase • Git • Swagger/OpenAPI • Neo4j • JUnit 5 • Mockito**
 
 ---
 
 # Проекты
 
-## Explore With Me
+## 🚀 Explore With Me
 
 Микросервисная платформа для организации и поиска мероприятий.
 
@@ -25,9 +25,19 @@ Java 17 • Spring Boot • Spring Security • PostgreSQL • Hibernate (JPA) �
 
 Java 17, Spring Boot, Hibernate, PostgreSQL, Docker, Maven, Postman, Microservices
 
+### Ссылки
+
+🚀 **Live Demo**
+
+* 🌐 [Swagger UI](http://77.66.185.97:7580/swagger-ui/index.html)
+
+💻 **Source Code**
+
+* 📦 [GitHub Repository](https://github.com/igor-blaz/java-explore-with-me)
+
 ---
 
-## Bank REST API
+## 🏦 Bank REST API
 
 REST API банковского сервиса с JWT-аутентификацией и ролевой моделью доступа.
 
@@ -48,15 +58,17 @@ Java 17, Spring Boot, Spring Security, JWT, PostgreSQL, Hibernate, Liquibase, Do
 
 ### Ссылки
 
-GitHub:
-https://github.com/igor-blaz/bank-rest
+🚀 **Live Demo**
 
-Swagger:
-http://77.66.185.97:8080/bank/swagger-ui/index.html
+* 🌐 [Swagger UI](http://77.66.185.97:8080/bank/swagger-ui/index.html)
+
+💻 **Source Code**
+
+* 📦 [GitHub Repository](https://github.com/igor-blaz/bank-rest)
 
 ---
 
-## My Story Telegram Bot
+## 🤖 My Story Telegram Bot
 
 Telegram-бот с графовой базой данных и системой интерактивных сюжетов.
 
@@ -74,15 +86,17 @@ Java 17, Neo4j, Docker, Maven, Telegram Bot API, Lombok
 
 ### Ссылки
 
-GitHub:
-https://github.com/igor-blaz/leafCatcher
+🤖 **Telegram Bot**
 
-Telegram:
-@My_Choice_Neo4j_bot
+* 💬 [Открыть бота](https://t.me/My_Choice_Neo4j_bot)
+
+💻 **Source Code**
+
+* 📦 [GitHub Repository](https://github.com/igor-blaz/leafCatcher)
 
 ---
 
-## Tech Store
+## 🛒 Tech Store
 
 Backend-приложение магазина компьютерной техники и комплектующих.
 
@@ -101,21 +115,26 @@ Java 17, Spring Boot, Spring Data JPA, PostgreSQL, Hibernate, Liquibase, Docker,
 
 ### Ссылки
 
-GitHub:
-https://github.com/igor-blaz/tech-store
+🚀 **Live Demo**
 
-Swagger:
-http://77.66.185.97:8070/techStore/swagger-ui/index.html
+* 🌐 [Swagger UI](http://77.66.185.97:8070/techStore/swagger-ui/index.html)
+
+💻 **Source Code**
+
+* 📦 [GitHub Repository](https://github.com/igor-blaz/tech-store)
 
 ---
 
 # Контакты
 
-GitHub:
-https://github.com/igor-blaz
+📦 GitHub:
 
-Telegram:
-@Blaz201
+* https://github.com/igor-blaz
 
-Email:
-[igor.dev201@gmail.com](mailto:igor.dev201@gmail.com)
+💬 Telegram:
+
+* https://t.me/Blaz201
+
+📧 Email:
+
+* [igor.dev201@gmail.com](mailto:igor.dev201@gmail.com)
