@@ -130,7 +130,5 @@ Java 17, Spring Boot, Spring Data JPA, PostgreSQL, Hibernate, Liquibase, Docker,
 📦 [GitHub](https://github.com/igor-blaz)
 
 💬 [Telegram](https://t.me/Blaz201)
-
-📧 Email:
-
-* [igor.dev201@gmail.com](mailto:igor.dev201@gmail.com)
+        
+📧 [Email](mailto:igor.dev201@gmail.com)
